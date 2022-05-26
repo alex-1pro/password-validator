@@ -56,9 +56,6 @@ password_validator()
 }
 
 
-############################################################
-# Process the input options. Add options as needed.        #
-############################################################
 # Get the options
 
 while getopts ":hf:" option; do
